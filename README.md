@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 UCS761 Deep Learning Laboratory
+# 🧠 UCS761 Deep Learning
 
 ### Neural Network Implementations from Scratch
 
