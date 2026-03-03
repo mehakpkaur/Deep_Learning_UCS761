@@ -45,7 +45,6 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 | 6 | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
 | 7 | Neural Network Architecture Experiments | Built and evaluated neural networks with different architectures, activation functions, and optimizers such as SGD and Momentum. |
 ---
----
 
 # 🚀 NVIDIA Deep Learning Institute (Coursera Modules)
 
