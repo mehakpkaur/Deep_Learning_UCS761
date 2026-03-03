@@ -33,7 +33,7 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 
 ---
 
-# 🧪 Laboratory Assignments
+#  Assignments
 
 | Lab | Topic | Description |
 |----|----|----|
