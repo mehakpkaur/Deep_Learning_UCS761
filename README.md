@@ -49,9 +49,7 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 
 # 🚀 NVIDIA Deep Learning Institute (Coursera Modules)
 
-In addition to the university laboratory assignments, this repository also includes materials from the **NVIDIA Deep Learning Institute courses completed through Coursera**.
-
-These modules provide practical exposure to modern deep learning workflows used in real-world AI systems.
+In addition to the assignments, this repository also includes materials from the **NVIDIA Deep Learning Institute courses completed through Coursera**.
 
 ### Topics Covered
 
@@ -62,16 +60,6 @@ These modules provide practical exposure to modern deep learning workflows used 
 - Multi-class classification  
 - Computer vision fundamentals  
 - Model training and evaluation  
-
-The notebooks and materials inside this section correspond to the coursework completed as part of the NVIDIA Deep Learning Institute training.
-
-📂 Folder:  
-```
-Coursera_NVIDIA_Modules/
-```
-
-🔗 Course Materials:  
-https://github.com/mehakpkaur/Deep_Learning_UCS761/tree/main/Coursera_NVIDIA_Modules
 
 ---
 
