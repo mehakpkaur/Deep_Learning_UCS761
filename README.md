@@ -45,6 +45,37 @@ All implementations are built using **Python, NumPy, and Jupyter Notebook**.
 | 6 | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
 | 7 | Neural Network Architecture Experiments | Built and evaluated neural networks with different architectures, activation functions, and optimizers such as SGD and Momentum. |
 ---
+---
+
+# 🚀 NVIDIA Deep Learning Institute (Coursera Modules)
+
+In addition to the university laboratory assignments, this repository also includes materials from the **NVIDIA Deep Learning Institute courses completed through Coursera**.
+
+These modules provide practical exposure to modern deep learning workflows used in real-world AI systems.
+
+### Topics Covered
+
+- Fundamentals of neural networks  
+- Forward and backward propagation  
+- Gradient descent optimization  
+- Activation functions  
+- Multi-class classification  
+- Computer vision fundamentals  
+- Model training and evaluation  
+
+The notebooks and materials inside this section correspond to the coursework completed as part of the NVIDIA Deep Learning Institute training.
+
+📂 Folder:  
+```
+Coursera_NVIDIA_Modules/
+```
+
+🔗 Course Materials:  
+https://github.com/mehakpkaur/Deep_Learning_UCS761/tree/main/Coursera_NVIDIA_Modules
+
+---
+
+
 # 👩‍💻 Author
 **Mehakpreet Kaur**  
 Roll no.- 102317094
