@@ -1,59 +1,103 @@
-# 🧠 UCS761 | Deep Learning
+<div align="center">
 
-![Course](https://img.shields.io/badge/UCS761-Neural%20Networks-blue)
-![Language](https://img.shields.io/badge/Python-Deep%20Learning-yellow)
-![Library](https://img.shields.io/badge/NumPy-Scientific%20Computing-green)
+# 🧠 UCS761 Deep Learning Laboratory
 
-From-scratch neural network implementations developed as part of the **UCS761 Deep Learning coursework**.  
-These labs focus on understanding the **mathematical foundations of neural networks**, gradient-based optimization, and implementing models **without high-level deep learning frameworks**.
+### Neural Network Implementations from Scratch
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-green?style=for-the-badge&logo=numpy)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+
+Implementing fundamental deep learning models **from scratch using Python and NumPy** to understand how neural networks work internally.
+
+</div>
 
 ---
 
-# 📚 Laboratory Assignments
+# 📘 About This Repository
+
+This repository contains laboratory work completed for the **UCS761 – Deep Learning** course.
+
+The main objective of these labs is to understand the **core mechanics of neural networks** by implementing models manually rather than relying on high-level libraries such as TensorFlow or PyTorch.
+
+The experiments focus on concepts such as:
+
+- Forward propagation  
+- Backpropagation  
+- Gradient descent optimization  
+- Activation functions  
+- Neural network architectures  
+
+All implementations are built using **Python, NumPy, and Jupyter Notebook**.
+
+---
+
+# 🧪 Laboratory Assignments
 
 | Lab | Topic | Description |
 |----|----|----|
-| 1 | Perceptron & Logic Gates | Implemented core logic gates to understand linear separability, weight updates, and bias adjustment. Establishes the mathematical foundation of neural decision boundaries. |
-| 2 | Logistic Regression | Built a binary classifier using sigmoid activation and Binary Cross Entropy loss. Focused on gradient descent optimization and probabilistic interpretation of outputs. |
-| 3 | Multiple Linear Regression | Designed a regression model using Mean Squared Error with manually derived gradients. Emphasis was placed on analytical parameter updates and convergence behavior. |
-| 4 | Linear Regression Neuron | Implemented a neural model of regression with explicit forward and backward propagation. Explored how gradient flow influences continuous prediction tasks. |
-| 5 | Learning to Bend a Model | Constructed a two-layer neural network to approximate nonlinear relationships using ReLU activation. Full backpropagation was implemented manually without deep learning frameworks. |
-| 6 | Shallow vs Deep Networks | Compared shallow and deep architectures to analyze gradient behavior and training stability. Investigated how activation choice and network depth affect convergence. |
-| 7 | From Numbers to Vision | Implemented dense and convolutional neural networks from scratch to transition from structured numerical data to image-based learning. Compared depth, activation functions, pooling, dropout, and optimizers (SGD, Momentum, Adam). |
+| **Lab 1** | Perceptron & Logic Gates | Implemented a perceptron model to simulate logic gates and understand how weights, bias, and decision boundaries work in simple neural models. |
+| **Lab 2** | Sigmoid & Logistic Regression | Built a binary classifier using the sigmoid activation function and gradient descent. The model was trained on the Glass dataset after preprocessing and normalization. |
+| **Lab 3** | Multiple Linear Regression | Implemented multiple linear regression using NumPy with feature normalization and gradient-based optimization to learn model parameters. |
+| **Lab 4** | Linear Regression Neuron | Designed a single neuron performing linear regression with forward propagation and parameter updates to predict continuous outputs. |
+| **Lab 5** | Learning to Bend a Model | Implemented a two-layer neural network to learn a nonlinear relationship (logarithmic curve) and observe how hidden layers help model complex functions. |
+| **Lab 6** | Shallow vs Deep Networks | Compared shallow and deeper neural network architectures on a sine-wave dataset to study how network depth influences learning capability. |
+| **Lab 7** | Neural Network Architecture & Optimizer Experiments | Built a neural network training pipeline from scratch and compared different architectures, activation functions, and optimizers (SGD and Momentum). Performance was evaluated using training/validation loss and accuracy, and the number of model parameters was analyzed. |
 
 ---
 
-# 🔗 NVIDIA Deep Learning Institute (Coursera)
+# 🧠 Concepts Explored
 
-| Course | Description |
-|------|------|
-| Fundamentals of Deep Learning | Focused on practical model construction, training workflows, and optimization techniques used in modern deep learning systems. |
-| Advanced Deep Learning Techniques | Explored deeper architectural strategies, performance tuning, and advanced training methodologies. |
+The repository demonstrates implementations and experiments involving:
 
-### Courses
-- https://www.coursera.org/learn/fundamentals-of-deep-learning
-- https://www.coursera.org/learn/advanced-deep-learning-techniques
-
-### Materials & Certificates
-NVIDIA (Coursera)
+- Perceptron models  
+- Logistic regression  
+- Gradient descent optimization  
+- Activation functions (Sigmoid, ReLU)  
+- Feature normalization  
+- Neural network training  
+- Shallow vs deep architectures  
+- Optimizers (SGD, Momentum)  
+- Function approximation using neural networks  
 
 ---
 
 # ⚙️ Technologies Used
 
-- Python  
-- NumPy  
-- Jupyter Notebook  
-- Neural Networks from Scratch  
-- Gradient Descent Optimization  
+- **Python**
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebook**
+
+---
+
+# 📂 Repository Structure
+
+```
+LAB_1_Logic_Gates.ipynb
+LAB_2_Sigmoid_Function.ipynb
+LAB_3_Multiple_Linear_Regression.ipynb
+LAB_4_Linear_Regression_Neuron.ipynb
+LAB_5_Learning_to_Bend_Model.ipynb
+LAB_6_Shallow_vs_Deep.ipynb
+LAB_7_Neural_Network_Experiments.ipynb
+README.md
+```
+
+Each notebook contains the implementation, experiments, and outputs related to the corresponding laboratory exercise.
 
 ---
 
 # 👩‍💻 Author
 
 **Mehakpreet Kaur**  
-Roll no. - 102317094 
+B.Tech – Computer Science Engineering  
+Thapar Institute of Engineering & Technology  
 
 Course: **UCS761 – Deep Learning**
 
 ---
+
+⭐ If you find this repository useful, consider giving it a **star**.
