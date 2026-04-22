@@ -91,8 +91,7 @@ In addition to the assignments, this repository also includes materials from the
 - [https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone  )  
 
 ### 📁 Materials & Certificates:
-- [Generative AI – Foundation Models & Platforms](./Generative AI-Foundation Models and Platforms)  
-
+- [Generative AI – Foundation Models & Platforms](./Generative%20AI-Foundation%20Models%20and%20Platforms)
 
 
 # 👩‍💻 Author
