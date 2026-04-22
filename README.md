@@ -66,6 +66,33 @@ In addition to the assignments, this repository also includes materials from the
 
 ---
 
+## 🔗 Generative AI (Coursera)
+
+| Course | Description |
+|--------|------------|
+| **Generative AI: Introduction & Applications** | Gained a solid understanding of generative AI concepts such as large language models, prompt design, and practical use cases across different industries. |
+
+### 🔗 Course Link:
+- [https://www.coursera.org/learn/generative-ai-introduction-and-applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications?specialization=generative-ai-for-everyone )  
+
+### 📁 Materials & Certificates:
+- Generative AI – Intro & Applications  
+
+
+---
+
+## 🔗 Generative AI – Foundation Models & Platforms (Coursera)
+
+| Course | Description |
+|--------|------------|
+| **Generative AI: Foundation Models & Platforms** | Learned about the underlying architectures of generative AI, including transformers and diffusion models, along with how modern AI platforms support model development, deployment, and scaling in real-world scenarios. |
+
+### 🔗 Course Link:
+- [https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms?specialization=generative-ai-for-everyone  )  
+
+### 📁 Materials & Certificates:
+- Generative AI – Foundation Models & Platforms  
+
 
 
 # 👩‍💻 Author
